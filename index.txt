@@ -3,7 +3,7 @@ vCard - Personal Portfolio
 # sidebar
 
 alt = Richard hanrick
-Richard hanrick
+Zhongyuan Cao
 Web developer
 
 Show Contacts
